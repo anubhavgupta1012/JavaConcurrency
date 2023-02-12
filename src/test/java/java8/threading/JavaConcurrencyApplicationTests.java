@@ -1,4 +1,4 @@
-package java.thread.JavaConcurrency;
+package java8.threading;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

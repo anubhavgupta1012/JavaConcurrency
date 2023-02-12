@@ -1,13 +1,13 @@
-package java.thread.JavaConcurrency;
+package java8.threading;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaConcurrencyApplication {
+public class DummyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaConcurrencyApplication.class, args);
+		SpringApplication.run(DummyApplication.class, args);
 	}
 
 }
